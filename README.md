@@ -1,2 +1,2 @@
-# breaking_the_habit
-This was my final project for the Metis Data Science Bootcamp, and an ongoing project: to build a full-fledged web app that uses Spotify's genre/popularity/audio-feature data on individual users' listening histories/saved-tracks/scrobbled-data, in order to recommend music that is specifically unlike what they tend to listen to.
+# Breaking the Habit
+This was my final project for the Metis Data Science Bootcamp, and an ongoing project: to build a full-fledged web app that uses Spotify's genre/popularity/audio-feature data on individual users' listening histories/saved-tracks/scrobbled-data, in order to recommend music that is specifically unlike what they tend to listen to, and more easily introduce them to a wider range of music outside their comfort zone.

@@ -1,2 +1,4 @@
 # Breaking the Habit
 This was my final project for the Metis Data Science Bootcamp, and an ongoing project: to build a full-fledged web app that uses Spotify's genre/popularity/audio-feature data on individual users' listening histories/saved-tracks/scrobbled-data, in order to recommend music that is specifically unlike what they tend to listen to, and more easily introduce them to a wider range of music outside their comfort zone.
+
+Current Status: Information will have to manually written into the code wherever stated, which limits its current use to anyone with a Developer account on Spotify. Currently working on creating a seamless user authentication process and web interface, so the eventual app can automatically ask for a user's permission to use listening data to create their personalized "Breaking the Habit" playlist.
